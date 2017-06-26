@@ -17,7 +17,8 @@
         </div>
 
       <div class="col s3 btnCol" > <button v-on:click="clicked" class="waves-effect waves-light btn" id="btnLogin">LogIn</button> </div>
-      <div class="col s3 btnCol" > <button v-on:click="signOut" class="waves-effect waves-light btn hide" id="btnSignOut">LogOut</button> </div>
+
+      <!-- Class not needed <div class="col s3 btnCol" > <button v-on:click="signOut" class="waves-effect waves-light btn hide" id="btnSignOut">LogOut</button> </div> -->
 </div>
     </div>
   </div>
@@ -28,7 +29,7 @@
 import Navs from './Navs'
 import {db} from './firebase'
 import {auth} from './firebase'
-
+// import Router from 'vue-router'
 //
 // if (btnlogin){
 //   btnlogin.addEventListener('click', e =>{
@@ -69,7 +70,8 @@ export default {
 auth.onAuthStateChanged(firebaseUser =>{
   if(firebaseUser){
     console.log(firebaseUser);
-    btnSignOut.classList.remove('hide')
+    // window.location.href = '/admin/success'
+    // btnSignOut.classList.remove('hide')
   } else {
     console.log('Not logged in')
   }

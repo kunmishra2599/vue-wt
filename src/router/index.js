@@ -21,7 +21,8 @@ export default new Router({
     {
       path: '/success',
       name: 'AdminSuccess',
-      component: AdminSuccess
+      component: AdminSuccess,
+      meta: { requiresAuth: true }
     }
   ]
 })
