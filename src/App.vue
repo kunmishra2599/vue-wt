@@ -13,7 +13,7 @@ export default {
 <style>
 
 .intro{
-  background-color: #F8F8FF;
+  background-color: #F0F8FF;
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center;
@@ -25,6 +25,6 @@ export default {
   text-align: center;
 }
 body{
-  background-color: #F8F8FF;
+  background-color: #F0F8FF;
 }
 </style>

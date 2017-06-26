@@ -3,12 +3,12 @@
     <Navs />
 
     <div class="container">
-      <h1 class="title-dope"> Welcome to WorkTeen </h1>
+      <h1 class="title-dope title-text"> Welcome to WorkTeen </h1>
       <Search />
       <div class="row">
 
         <div class="row results-row">
-          <h4> Featured Opportunities </h4>
+          <h4 class="title-text"> Featured Opportunities </h4>
             <div  v-for="pos of positions" class="col s12 m4">
               <div class="card">
                 <div class="card-image">
@@ -67,9 +67,15 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
+
+.title-text{
+  font-family: 'Alegreya Sans SC', sans-serif;
+}
 .title-dope{
   text-align: center;
   margin-top:19%;
+  font-size: 4.5em;
+  
 }
 
 .results-row{

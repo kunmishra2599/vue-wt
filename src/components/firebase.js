@@ -9,25 +9,5 @@ const firebaseApp = Firebase.initializeApp({
   messagingSenderId: "136352030230"
 });
 
-// const adminEmail = document.getElementById('email');
-// const adminPass = document.getElementById('password');
-// const btnLogin = document.getElementById('btnLogin');
-//
-// //login event
-// if(btnLogin){
-//   btnLogin.addEventListener('click', e
-//
-// btnLogin.addEventListener('click',e=>{
-//   const email = adminEmail;
-//   const pass = adminPass;
-//   const auth = firebase.auth();
-//
-//   //sign in
-//   const promise = auth.signInWithEmailAndPassword(email,pass);
-//   promise.catch(e => console.log(e.message));
-// })
-// }
-
-// Export the database for components to use.
-// If you want to get fancy, use mixins or provide / inject to avoid redundant imports.
+export const auth = firebaseApp.auth()
 export const db = firebaseApp.database();

@@ -4,17 +4,21 @@
     <div class="container">
       <div class="login-group">
       <div class="row">
+        <div class="col s12">
+          <h4 class="title-text">Admin Login</h4>
+        </div>
         <div class="input-field col s12">
-          <input id="email" type="email" placeholder="Email" class="validate">
-
+          <input id="adminemail" type="email" placeholder="Email">
         </div>
       </div>
       <div class="row">
         <div class="input-field col s12">
-          <input id="password" type="password" placeholder="Password" class="validate">
+          <input id="adminpassword" type="password" placeholder="Password" class="validate">
         </div>
-      </div>
-      <div class="col s12 btnCol" id="btnLogin"> <a class="waves-effect waves-light btn">LogIn</a> </div>
+
+      <div class="col s3 btnCol" > <button v-on:click="clicked" class="waves-effect waves-light btn" id="btnLogin">LogIn</button> </div>
+      <div class="col s3 btnCol" > <button v-on:click="signOut" class="waves-effect waves-light btn hide" id="btnSignOut">LogOut</button> </div>
+</div>
     </div>
   </div>
 </div>
@@ -22,28 +26,71 @@
 
 <script>
 import Navs from './Navs'
+import {db} from './firebase'
+import {auth} from './firebase'
 
+//
+// if (btnlogin){
+//   btnlogin.addEventListener('click', e =>{
+//     const email = adminEmail.value
+//     const pass = adminPass.value
+//     const auth = db.auth()
+//
+//     const promise = auth.signInWithEmailAndPassword(email,pass)
+//     promise.catch(e => console.log(e.message
+//   })
+// }
 export default {
   name: 'admin',
   components :{
     Navs
   },
-  data () {
-    return {
-      msg: 'Welcome to Your Vue.js App'
+  methods: {
+    clicked: function (event) {
+
+      const adminEmail = document.getElementById('adminemail')
+      const adminPass = document.getElementById('adminpassword')
+      const btnlogin = document.getElementById('btnLogin')
+
+      const email = adminEmail.value
+      const pass = adminPass.value
+
+
+      const promise = auth.signInWithEmailAndPassword(email,pass)
+      promise.catch(e => console.log(e.message))
+    },
+    signOut: function (event) {
+      auth.signOut()
+      location.reload();
     }
   }
 }
+
+auth.onAuthStateChanged(firebaseUser =>{
+  if(firebaseUser){
+    console.log(firebaseUser);
+    btnSignOut.classList.remove('hide')
+  } else {
+    console.log('Not logged in')
+  }
+})
 </script>
 
 <style scoped>
-.btnCol{
-  text-align: left
+.title-text{
+  font-family: 'Alegreya Sans SC', sans-serif;
+  font-size: 4em;
 }
+.btnCol{
+  text-align: center;
+}
+
 .login-group{
   margin:20%;
+  margin-top:10%;
+  margin-left:25%;
   text-align: center;
-  width:60%;
+  width:50%;
 }
 
 input{
