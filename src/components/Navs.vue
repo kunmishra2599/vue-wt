@@ -6,7 +6,7 @@
         <li><router-link to="/">Home</router-link></li>
       </ul>
       <ul class="right hide-on-med-and-down">
-        <li><router-link to="admin">Admin Login</router-link></li>
+        <li  id="adminLink"><router-link to="admin">Admin Login</router-link></li>
       </ul>
       <ul class="side-nav" id="mobile-demo">
         <li><router-link to="admin">Admin</router-link></li>

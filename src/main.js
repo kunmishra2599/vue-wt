@@ -23,8 +23,9 @@ new Vue({
     auth.onAuthStateChanged((user) => {
       if(user) {
         this.$router.push('/success')
+
       } else {
-        this.$router.push('/admin')
+        this.$router.push('/')
       }
      });
     },

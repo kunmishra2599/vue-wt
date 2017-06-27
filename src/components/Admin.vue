@@ -2,7 +2,7 @@
   <div class="admin">
     <Navs />
     <div class="container">
-      <div class="login-group">
+      <div class="login-group center-align">
       <div class="row">
         <div class="col s12">
           <h4 class="title-text">Admin Login</h4>
@@ -16,7 +16,7 @@
           <input id="adminpassword" type="password" placeholder="Password" class="validate">
         </div>
 
-      <div class="col s3 btnCol" > <button v-on:click="clicked" class="waves-effect waves-light btn" id="btnLogin">LogIn</button> </div>
+      <div class="col s12 btnCol center-align" > <button v-on:click="clicked" class="waves-effect waves-light btn" id="btnLogin">LogIn</button> </div>
 
       <!-- Class not needed <div class="col s3 btnCol" > <button v-on:click="signOut" class="waves-effect waves-light btn hide" id="btnSignOut">LogOut</button> </div> -->
 </div>
@@ -59,8 +59,7 @@ export default {
 
 auth.onAuthStateChanged(firebaseUser =>{
   if(firebaseUser){
-    console.log(firebaseUser);
-    // window.location.href = '/admin/success'
+    console.log(firebaseUser)
     // btnSignOut.classList.remove('hide')
 
     // this.$router.go('/');
@@ -72,6 +71,11 @@ auth.onAuthStateChanged(firebaseUser =>{
 </script>
 
 <style scoped>
+
+.input-panel{
+  text-align: center;
+  color: black;
+}
 .title-text{
   font-family: 'Alegreya Sans SC', sans-serif;
   font-size: 4em;
@@ -83,13 +87,14 @@ auth.onAuthStateChanged(firebaseUser =>{
 .login-group{
   margin:20%;
   margin-top:10%;
-  margin-left:25%;
+  margin-left:30%;
   text-align: center;
-  width:50%;
+  width:40%;
 }
 
 input{
   font-size: 1.4em;
+  text-align: center;
 }
 
 </style>
