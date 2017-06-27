@@ -29,18 +29,7 @@
 import Navs from './Navs'
 import {db} from './firebase'
 import {auth} from './firebase'
-// import Router from 'vue-router'
-//
-// if (btnlogin){
-//   btnlogin.addEventListener('click', e =>{
-//     const email = adminEmail.value
-//     const pass = adminPass.value
-//     const auth = db.auth()
-//
-//     const promise = auth.signInWithEmailAndPassword(email,pass)
-//     promise.catch(e => console.log(e.message
-//   })
-// }
+
 export default {
   name: 'admin',
   components :{
@@ -64,6 +53,7 @@ export default {
       auth.signOut()
       location.reload();
     }
+
   }
 }
 
@@ -72,10 +62,13 @@ auth.onAuthStateChanged(firebaseUser =>{
     console.log(firebaseUser);
     // window.location.href = '/admin/success'
     // btnSignOut.classList.remove('hide')
+
+    // this.$router.go('/');
   } else {
     console.log('Not logged in')
   }
 })
+
 </script>
 
 <style scoped>

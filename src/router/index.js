@@ -7,6 +7,7 @@ import AdminSuccess from '@/components/AdminSuccess'
 Vue.use(Router)
 
 export default new Router({
+  mode: 'history',
   routes: [
     {
       path: '/',
@@ -16,13 +17,15 @@ export default new Router({
     {
       path: '/admin',
       name: 'Admin',
-      component: Admin
+      component: Admin,
+      meta: {
+        forVisitors: true
+      }
     },
     {
       path: '/success',
       name: 'AdminSuccess',
-      component: AdminSuccess,
-      meta: { requiresAuth: true }
+      component: AdminSuccess
     }
   ]
 })
