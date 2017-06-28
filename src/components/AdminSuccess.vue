@@ -59,11 +59,9 @@ input, textarea{
 .title-text{
   font-family: 'Alegreya Sans SC', sans-serif;
   font-size: 4em;
+  color: white;
 }
-.heading-text{
-  font-family: 'Alegreya Sans SC', sans-serif;
-  font-size: 3em;
-}
+
 
 .btnCol{
   text-align: center;

@@ -81,10 +81,24 @@ export default {
 .input-field{
   width:50%;
 }
+.heading-text{
+  font-family: 'Alegreya Sans SC', sans-serif;
+  font-size: 3em;
+  color: white;
+}
 input, textarea{
   font-size: 1.4em;
   text-align: center;
   width:65%;
+  border-top:none;
+  border-left:none;
+  border-right:none;
+}
+textarea{
+  border-top:none;
+  border-left:none;
+  border-right:none;
+  min-height:150px;
 }
 .adding-block{
   margin-top:15%;
@@ -92,5 +106,6 @@ input, textarea{
 .title-text{
   font-family: 'Alegreya Sans SC', sans-serif;
   font-size: 4em;
+  color: white;
 }
 </style>
