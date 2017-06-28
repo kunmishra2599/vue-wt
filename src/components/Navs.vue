@@ -21,13 +21,13 @@
 <style>
 
 nav{
-  background-color: #F0F8FF;
-  color: black;
-  border: 0px solid white
+  background-color: transparent;
+  color: white;
+  border: 0px solid white;
 
 }
 nav ul a{
-  color: black;
+  color: white;
   font-size: 1.1em;
 }
 body{

@@ -6,7 +6,10 @@ ehthumbs.db
 Desktop.ini
 
 node_modules
-
+dist
+public
+.firebasesrc
+firebase.json
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
 

@@ -1,7 +1,9 @@
 <template>
+  <div class="all">
   <div id="app">
     <router-view></router-view>
   </div>
+</div>
 </template>
 
 <script>
@@ -13,10 +15,10 @@ export default {
 <style>
 
 .intro{
-  background-color: #F0F8FF;
+  /*background-color: #F0F8FF;
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-position: center;
+  background-position: center;*/
   padding:18%;
   padding-top:12%;
   color: black;
@@ -25,6 +27,6 @@ export default {
   text-align: center;
 }
 body{
-  background-color: #F0F8FF;
+  background-color: transparent;
 }
 </style>

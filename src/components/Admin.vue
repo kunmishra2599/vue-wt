@@ -71,14 +71,17 @@ auth.onAuthStateChanged(firebaseUser =>{
 </script>
 
 <style scoped>
-
 .input-panel{
   text-align: center;
-  color: black;
+  color: white;
+}
+input{
+  color: white;
 }
 .title-text{
   font-family: 'Alegreya Sans SC', sans-serif;
   font-size: 4em;
+  color: white;
 }
 .btnCol{
   text-align: center;
