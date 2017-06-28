@@ -37,44 +37,44 @@
 //Imports important page elements
 import Navs from './Navs'
 import Search from './Search'
-import toastr from 'toastr'
+// import toastr from 'toastr'
 //Imports db constant from src/components/firebase.js
 import {db} from './firebase';
 
 var mumbaiRef = db.ref('mumbai')
-var query = mumbaiRef.orderByKey()
-
-
-query.once("value")
-  .then(function(snapshot) {
-    snapshot.forEach(function(childSnapshot) {
-      // key will be "ada" the first time and "alan" the second time
-      // var key = childSnapshot.key;
-      // childData will be the actual contents of the child
-      var childData = childSnapshot.val();
-      // console.log(childData)
-      if(childData.skills === "Drawing"){
-        toastr.options = {
-          "closeButton": false,
-          "debug": false,
-          "newestOnTop": false,
-          "progressBar": false,
-          "positionClass": "toast-bottom-right",
-          "preventDuplicates": true,
-          "onclick": null,
-          "showDuration": "300",
-          "hideDuration": "1000",
-          "timeOut": "5000",
-          "extendedTimeOut": "1000",
-          "showEasing": "swing",
-          "hideEasing": "linear",
-          "showMethod": "fadeIn",
-          "hideMethod": "fadeOut"
-        }
-        toastr.success("New opportunity matching skill sets")
-      }
-  });
-});
+// var query = mumbaiRef.orderByKey()
+//
+//
+// query.once("value")
+//   .then(function(snapshot) {
+//     snapshot.forEach(function(childSnapshot) {
+//       // key will be "ada" the first time and "alan" the second time
+//       // var key = childSnapshot.key;
+//       // childData will be the actual contents of the child
+//       var childData = childSnapshot.val();
+//       // console.log(childData)
+//       if(childData.skills === "Drawing"){
+//         toastr.options = {
+//           "closeButton": false,
+//           "debug": false,
+//           "newestOnTop": false,
+//           "progressBar": false,
+//           "positionClass": "toast-bottom-right",
+//           "preventDuplicates": true,
+//           "onclick": null,
+//           "showDuration": "300",
+//           "hideDuration": "1000",
+//           "timeOut": "5000",
+//           "extendedTimeOut": "1000",
+//           "showEasing": "swing",
+//           "hideEasing": "linear",
+//           "showMethod": "fadeIn",
+//           "hideMethod": "fadeOut"
+//         }
+//         toastr.success("New opportunity matching skill sets")
+//       }
+//   });
+// });
 
 
 export default {

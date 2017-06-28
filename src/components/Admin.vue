@@ -57,6 +57,7 @@ export default {
   }
 }
 
+
 auth.onAuthStateChanged(firebaseUser =>{
   if(firebaseUser){
     console.log(firebaseUser)

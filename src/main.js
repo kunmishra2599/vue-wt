@@ -7,11 +7,11 @@ import './components/firebase'
 import VueFire from 'vuefire'
 import VueRouter from 'vue-router'
 import {auth} from './components/firebase'
+import jquery from 'jquery'
 
 Vue.use(VueFire)
 Vue.use(VueRouter)
 Vue.config.productionTip = false
-
 
 
 /* eslint-disable no-new */
@@ -23,11 +23,10 @@ new Vue({
     auth.onAuthStateChanged((user) => {
       if(user) {
         this.$router.push('/success')
-
       } else {
         this.$router.push('/')
       }
-     });
+     })
     },
   template: '<App/>',
   components: { App }

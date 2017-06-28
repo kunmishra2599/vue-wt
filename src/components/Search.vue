@@ -4,12 +4,16 @@
       <div class="col s12">
            <input placeholder="Search for stuff here. Literally anything. We use Elastic now." id="search" type="text" class="validate">
       </div>
-      <div class="col s12"> <a class="waves-effect waves-light btn search-btn z-depth-1">Search</a> </div>
+      <div class="col s12"> <a class="waves-effect waves-light btn search-btn z-depth-1">Search</a></div>
+
+
     </div>
 </div>
 
 </template>
+<script>
 
+</script>
 
 <style scoped>
 

@@ -17,15 +17,14 @@ export default new Router({
     {
       path: '/admin',
       name: 'Admin',
-      component: Admin,
-      meta: {
-        forVisitors: true
-      }
+      component: Admin
+
     },
     {
       path: '/success',
       name: 'AdminSuccess',
-      component: AdminSuccess
+      component: AdminSuccess,
+      meta: { auth: true }
     }
   ]
 })

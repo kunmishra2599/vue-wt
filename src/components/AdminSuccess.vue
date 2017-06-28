@@ -1,6 +1,6 @@
 <template>
   <div class="success">
-    <Navs />
+    <!-- <Navs /> -->
     <div class="container">
       <div class="login-group">
       <div class="row">
@@ -15,7 +15,7 @@
 </template>
 
 <script>
-import Navs from './Navs'
+// import Navs from './Navs'
 import AddForm from './AddForm'
 import {db} from './firebase'
 import {auth} from './firebase'
@@ -25,7 +25,7 @@ import {auth} from './firebase'
 export default {
   name: 'success',
   components :{
-    Navs, AddForm
+    AddForm
   },
 
   methods: {
