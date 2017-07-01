@@ -1,0 +1,447 @@
+{
+  "Mumbai" : [ {
+    "Category" : "fashion , events",
+    "City" : "Mumbai",
+    "Commitment" : "10 Hours / Day",
+    "Description" : "We are looking for 2 volunteers to assist at a Garage Sale - Donation Call. The volunteers need to be responsible, discrete, well-spoken English & Hindi, polite and hard working.",
+    "Form" : "https://docs.google.com/forms/d/e/1FAIpQLSf84ZLfGe3roGS2I7ZWWVfm25Vw5zfzkLdfUUKQhtHYic23kA/viewform?c=0&w=1",
+    "Opp_ID" : 1,
+    "Organisation" : "Seams for Dreams",
+    "type" : "volunteer"
+  }, {
+    "Category" : "fashion , events",
+    "City" : "Mumbai",
+    "Commitment" : "10 Hours / Day",
+    "Description" : "We need 2 volunteers to assist us during our garage sale. The volunteers need to be responsible, discrete, professional, well-spoken English & Hindi, polite and hard working.",
+    "Form" : "https://docs.google.com/forms/d/e/1FAIpQLSf84ZLfGe3roGS2I7ZWWVfm25Vw5zfzkLdfUUKQhtHYic23kA/viewform?c=0&w=1",
+    "Opp_ID" : 2,
+    "Organisation" : "Seams for Dreams",
+    "type" : "volunteer"
+  }, {
+    "Category" : "research , marine , islands , diving , underwater",
+    "City" : "any",
+    "Commitment" : "8 Hours / Day",
+    "Description" : "Conduct marine research and volunteer in Andaman & Nicobar Islands for a month. Underwater exploration.",
+    "Form" : "https://docs.google.com/forms/d/e/1FAIpQLSfe3ABKvazc0-22wk1RKfshuZ_VPLH2AyLzfuEb-Ucq28yekg/viewform?c=0&w=1",
+    "Opp_ID" : 3,
+    "Organisation" : "ReefWatch Marine Conservation",
+    "type" : "research"
+  }, {
+    "Category" : "teach , education , children , underprivilaged",
+    "City" : "Mumbai",
+    "Commitment" : "2-3 Hours / Week",
+    "Description" : "Volunteers will be required to teach specific subjects and mentor the children. Any volunteer who signs up will have to commit to one academic year's worth of commitment.",
+    "Form" : "https://docs.google.com/forms/d/e/1FAIpQLSeDepSIr-ydB-UAhv_99XTT66ULUe8ya2cScde1geCxYln-Vg/viewform?c=0&w=1",
+    "Opp_ID" : 4,
+    "Organisation" : "Project Dhai Akshar",
+    "type" : "volunteer"
+  }, {
+    "Category" : "teach , education , children , story",
+    "City" : "Mumbai",
+    "Commitment" : "2-3 Hours / Week",
+    "Description" : "Tasks may include: To share art, dance or theater skills with the underprivileged. Tutor or mentor a child once a week every Sundays. Gift board games or other educational material to a class of the underprivileged. Launch a social media campaign on educational equity. Widen Teach for India's reach by writing about their work on all platforms.",
+    "Form" : "http://www.teachforindia.org/volunteer",
+    "Opp_ID" : 5,
+    "Organisation" : "Teach for India",
+    "type" : "volunteer"
+  }, {
+    "Category" : "history , education , museum",
+    "City" : "Mumbai",
+    "Commitment" : "4 Hours / Week",
+    "Description" : "Assisting the team mainly with Education and Outreach activities, helping out the team organise and execute workshops.",
+    "Form" : "https://docs.google.com/forms/d/e/1FAIpQLSfAkwYn9MlQWzHeu_AePoMT2er25QkJeq3gZ3tgfIKln38AMA/viewform?c=0&w=1",
+    "Opp_ID" : 6,
+    "Organisation" : "Dr Bhau Daji Lad Museum",
+    "type" : "intern"
+  }, {
+    "Category" : "writing , social media , story",
+    "City" : "any",
+    "Commitment" : "4 Hours / Week",
+    "Description" : "Writing short articles about events and about the featured artists. You get to attend our events for free and even perform if you're interested to. There will also be social media posts that you may be asked to make.",
+    "Form" : "https://docs.google.com/forms/d/e/1FAIpQLScRQexvoCDRkIr5-iNj5B9B0JFhYJZV1IGjSjhA68OpISrP5g/viewform?c=0&w=1",
+    "Opp_ID" : 7,
+    "Organisation" : "More Than Mics",
+    "type" : "intern"
+  }, {
+    "Category" : "comedy , audio visual , design",
+    "City" : "Mumbai",
+    "Commitment" : "N/A",
+    "Description" : "Join Daniel Fernandes' for a new project as an audio visual production intern or design intern. Audio Visual Production interns must have proficient in setting up and operating Sound/Camera Equipment, FCP 7 and Adobe Premiere Pro. Design interns must be proficient in Adobe Illustrator and Adobe Photoshop",
+    "Form" : "https://docs.google.com/forms/d/e/1FAIpQLScAvNpMSEwr3dHMAanL8jNCkBcGyB7aMSm4zy7x8N4jZ8Kzjg/viewform?c=0&w=1",
+    "Opp_ID" : 8,
+    "Organisation" : "Daniel Fernandes",
+    "type" : "intern"
+  }, {
+    "Category" : "tech , blogging , events",
+    "City" : "any",
+    "Commitment" : "1-3 Hours / Day",
+    "Description" : "Intern with thetecholic.com, a blog that has been featured in Apple News. Interns will be required to publish 1-2 articles per day on tech news from around the world.",
+    "Form" : "https://docs.google.com/forms/d/e/1FAIpQLSfBxJPAsZxr2BbfcnvVk19XcDre3QveCOFbn4sS4zefOZjICw/viewform?c=0&w=1",
+    "Opp_ID" : 9,
+    "Organisation" : "The Techolic",
+    "type" : "intern"
+  }, {
+    "Category" : "writing , social media , marketing , story",
+    "City" : "any",
+    "Commitment" : "1 Post/Day",
+    "Description" : "A 120 character twitter/instagram/facebook post related to 'Content is King' along with a suitable picture or gif(Creativity is highly boasted. So if you have any innovative ideas, bring them on)",
+    "Form" : "https://docs.google.com/forms/d/e/1FAIpQLSeULaJSAm29BBMugeb4ZBneQw1NWOqm5IbySPLhr985O7WYqQ/viewform?c=0&w=1",
+    "Opp_ID" : 10,
+    "Organisation" : "White Panda",
+    "type" : "intern"
+  }, {
+    "Category" : "distribute , community service",
+    "City" : "Mumbai",
+    "Commitment" : "2 Hours / Sunday",
+    "Description" : "Distribute food collected from to low income communities across Mumbai.",
+    "Form" : "http://robinhoodarmy.com/join/volunteer/",
+    "Opp_ID" : 11,
+    "Organisation" : "Robin Hood Army",
+    "type" : "volunteer"
+  }, {
+    "Category" : "education , teach",
+    "City" : "Mumbai",
+    "Commitment" : "1 Day/Week",
+    "Description" : "Apni Shaala seeks Child Mentors - To accompany children on trips, Photographers - To capture groundwork of their programs  and Graphic Designers.",
+    "Form" : "https://docs.google.com/forms/d/e/1FAIpQLSexMVvOtCOE__ClCobE26QIDJJzEeEDUldXFWhu_cCD8ax8oA/viewform?c=0&w=1",
+    "Opp_ID" : 12,
+    "Organisation" : "Apni Shaala",
+    "type" : "volunteer"
+  }, {
+    "Category" : "fashion , events",
+    "City" : "Mumbai",
+    "Commitment" : "1 Day/Week",
+    "Description" : "We need 2 interns to assist us with our social media. The intern must have graphic designing skills, knowledge of graphic design computer programs such as coral draw, photoshop, Photography, editing, design, creatives, etc.",
+    "Form" : "https://docs.google.com/forms/d/e/1FAIpQLSdRS7OUAD7dY2x0V3IQuRGxZR05FmZYJ8LElJOg48PNWAZa4g/viewform?c=0&w=1",
+    "Opp_ID" : 13,
+    "Organisation" : "Seams for Dreams",
+    "type" : "volunteer"
+  }, {
+    "Category" : "events",
+    "City" : "Mumbai",
+    "Commitment" : "Flexible",
+    "Description" : "Help raise awareness against the BMC's inefficiencies and demand a much-needed structural and systemic city-wide change. Free A Billion seeks energetic and phenomenally motivated volunteers who can conduct events in their own locality while receiving an exceptional training in grassroots organisational work.",
+    "Form" : "https://docs.google.com/forms/d/e/1FAIpQLSeJMR4VoCv1DChthQ8-DLwKLy_TIW-ndAxdqpRG606d81Fv0A/viewform?c=0&w=1",
+    "Opp_ID" : 14,
+    "Organisation" : "Free A Bilion",
+    "type" : "volunteer"
+  }, {
+    "Category" : "teaching , sports",
+    "City" : "Mumbai",
+    "Commitment" : "Flexible",
+    "Description" : "Volunteers can help in teaching, raising funds for their NGO, arts and craft activities and teaching sports and yoga.",
+    "Form" : "https://docs.google.com/forms/d/e/1FAIpQLSeSFiPUTnLJdBLuJMJ-Atvv4_poxEJKfEGZRJxOfsCUUUBKEA/viewform?c=0&w=1",
+    "Opp_ID" : 15,
+    "Organisation" : "Anandi",
+    "type" : "volunteer"
+  }, {
+    "Category" : "events , research , help , stipend",
+    "City" : "Mumbai",
+    "Commitment" : "5 Hours / Day",
+    "Description" : "Stipend: Rs 2000 per month for commute. Letter of Acknowledgement provided afterwards. Admin and paperwork: Receipt making. Coordinating with donors and liaison with prospective donors and participants for our upcoming charity event in October. There is research involved too. It's important to have a pleasant disposition and diligent documentation skills. Sales: To represent the NGO for the sale of our products at various events. It is important to have patience and a pleasant temperament. This also includes liasoning with our exhibitors and vendors for the October fundraising event. Making excel sheets and replying to emails. Form filling and payment liason. This position gives a lot of exposure in peoples skills to the volunteer. Social Media: One post per day on instagram and updating our facebook/twitter pages. The work is more pre and post event and is a few minutes per day.",
+    "Form" : "https://docs.google.com/forms/d/e/1FAIpQLScQRUe4Gi8ntiQuzCvkmEon3_9fqgqjWUNUOsk3LKl_JKFf0A/viewform?c=0&w=1",
+    "Opp_ID" : 16,
+    "Organisation" : "Helping Hands",
+    "type" : "volunteer"
+  }, {
+    "Category" : "sports , writing",
+    "City" : "any",
+    "Commitment" : "Extensive",
+    "Description" : "With this internship, you get to learn the nuances of sports reporting and writing from the best in the business. In addition, you also get the chance to work with seasoned professionals from the journalism industry, and maybe even meet the sports stars that you idolise. Interns need to have an extensive knowledge of the sporting world and immaculate writing skills. Candidates need to apply using samples of their sports article.",
+    "Form" : "https://docs.google.com/forms/d/e/1FAIpQLSf-FeAkFbRntYidpQ0R5aIcuuaDij7S3TfDMGn-0IZlZF4dCw/viewform?c=0&w=1",
+    "Opp_ID" : 17,
+    "Organisation" : "Sportskeedia",
+    "type" : "intern"
+  }, {
+    "Category" : "writing , research",
+    "City" : "Mumbai",
+    "Commitment" : "20 Hours / Week",
+    "Description" : "Intern with Talent Power Partners, a company that intends to build and implement methods for accomplished leaders to improve their relationships, attitudes and behaviours for themselves and their teams. Interns will work as content writers and researchers.",
+    "Form" : "https://docs.google.com/forms/d/e/1FAIpQLSfBNM6A50012Nl12cg_2xs6yvkkxkfQckdLYSs7BpUOgjAlTg/viewform?c=0&w=1",
+    "Opp_ID" : 18,
+    "Organisation" : "Talent Power Partners",
+    "type" : "intern"
+  }, {
+    "Category" : "web dev , code",
+    "City" : "Mumbai",
+    "Commitment" : "9 Hours / Day",
+    "Description" : "Internship for a minimum of 3 months and maximum of 6 months. Interns will be paid depending on the quality of their work. The intern will help make applications and websites with WordPress and PHP.",
+    "Form" : "https://docs.google.com/forms/d/e/1FAIpQLSeZPzwierSlFhX8DHIa2scCHTSaaE-Vvw3_8viajmcYeswS1Q/viewform?c=0&w=1",
+    "Opp_ID" : 19,
+    "Organisation" : "Rethinking Web",
+    "type" : "intern"
+  }, {
+    "Category" : "social media , marketing",
+    "City" : "Mumbai",
+    "Commitment" : "5 Days / Week",
+    "Description" : "Help make brands famous on various social media platforms such as Facebook,Twitter and Instagram. This would include engaging with the brands online, sharing their facebook posts, creating awareness etc.",
+    "Form" : "https://docs.google.com/forms/d/e/1FAIpQLSdloqHucTDmqmLdyuOJxf3keaQwMJhbQ8X4tqM2H4LGk6yPPA/viewform?c=0&w=1",
+    "Opp_ID" : 20,
+    "Organisation" : "Giraffe Brand Communication",
+    "type" : "intern"
+  }, {
+    "Category" : "design",
+    "City" : "Mumbai",
+    "Commitment" : "N/A",
+    "Description" : "Logo design/ Feedback on homepage of White Panda - More details will be shared upon selection.",
+    "Form" : "https://docs.google.com/forms/d/e/1FAIpQLSeULaJSAm29BBMugeb4ZBneQw1NWOqm5IbySPLhr985O7WYqQ/viewform?c=0&w=1",
+    "Opp_ID" : 21,
+    "Organisation" : "White Panda",
+    "type" : "intern"
+  }, {
+    "Category" : "writing , travel",
+    "City" : "any",
+    "Commitment" : "5 Stories / Week",
+    "Description" : "Write-ups on travel destinations, travel listicles and write-ups. Candidate Description- Must possess a good writing style, must have fair knowledge about places, must be ready to interact for stories, must be punctual and ready to coordinate, must meet deadlines.",
+    "Form" : "https://docs.google.com/forms/d/e/1FAIpQLScwjAL9NfM43f9pDf_0HGeio6z41ckOmZ0CD3ikkT6c77IN3w/viewform?c=0&w=1",
+    "Opp_ID" : 22,
+    "Organisation" : "Spectral Hues",
+    "type" : "intern"
+  }, {
+    "Category" : "writing , review , books , blogging",
+    "City" : "any",
+    "Commitment" : "5 Stories / Week",
+    "Description" : "You will be required to review books (Indian as well as International authors), provide book-related write ups and conduct author interviews (Indian as well as International authors). You must posses a good writing style, have fair knowledge about books and writers, must be ready to interact with authors, must be punctual and ready to coordinate.",
+    "Form" : "https://docs.google.com/forms/d/e/1FAIpQLSdV_Fe7P-PpLtP1_F69UH-DVQ2t7Hgx77OrPP9WG5-BtIwz-A/viewform?c=0&w=1",
+    "Opp_ID" : 23,
+    "Organisation" : "Spectral Hues",
+    "type" : "intern"
+  }, {
+    "Category" : "audio visual , youtube",
+    "City" : "any",
+    "Commitment" : "2 Videos, Podcasts / Week",
+    "Description" : "The videos which will be uploaded on YouTube and also embeded in her website will be of reasonable lengths. The applicant is required to polish and ornate the videos. Pod casts and voice notes will be uploaded to soundcloud and embeded in her blog. The applicant is expected to refine the voice notes and other changes as instructed. If you show good quality work, stipend will be paid!",
+    "Form" : "https://docs.google.com/forms/d/e/1FAIpQLSfqtVpkA7eeZb1uKenoiwzsR_hukiDILXa4_PdjwQ_pAK2NCw/viewform?c=0&w=1",
+    "Opp_ID" : 24,
+    "Organisation" : "Work with actress Anisa Butt",
+    "type" : "intern"
+  }, {
+    "Category" : "social media , marketing",
+    "City" : "any",
+    "Commitment" : "Flexible",
+    "Description" : "The interns will be given a specific link every 2 days to promote on social media websites to drive traffic & likes to our social media pages.",
+    "Form" : "https://docs.google.com/forms/d/e/1FAIpQLSe_wtwY6sKOb3lw5ufv4Su-VNdQldRDj3bX2gCyjLObUGCPPA/viewform?c=0&w=1",
+    "Opp_ID" : 25,
+    "Organisation" : "The Startup Journal",
+    "type" : "intern"
+  }, {
+    "Category" : "design , social media , marketing",
+    "City" : "any",
+    "Commitment" : "Flexible",
+    "Description" : "Discuss, engage, argue, analyse, provide feedback, use social media to engage others in dialgue about Classfever. Candidates with a background in Graphic Design, Social Media Marketing and PR are preferred.",
+    "Form" : "https://docs.google.com/forms/d/e/1FAIpQLSc4SwG4ROVGeaUgLJCvGw5FBnkYPsxTFtKSCuYTv76WAteYxw/viewform?c=0&w=1",
+    "Opp_ID" : 26,
+    "Organisation" : "ClassFever",
+    "type" : "intern"
+  }, {
+    "Category" : "audio visual , youtube , social media , marketing",
+    "City" : "any",
+    "Commitment" : "4 Hours / Week",
+    "Description" : "Urban Rabbit is a blog that covers unfiltered conversations around the youth culture. Students interested in social media management, graphic design and basic video editing for YouTube should also apply. Those interested in social media management would not only handle the social accounts, but also learn how to execute campaigns and generate the social buzz on internet. The graphic design interns would be working on creating posters and graphics according to the requirements.",
+    "Form" : "https://docs.google.com/forms/d/e/1FAIpQLSdGUFbAND7NxuObi_wU3yy6Vuz9eYkhczNL3KUo24BhFPWATA/viewform",
+    "Opp_ID" : 27,
+    "Organisation" : "Urban Rabbit",
+    "type" : "intern"
+  }, {
+    "Category" : "economics , finance , maths",
+    "City" : "Mumbai",
+    "Commitment" : "10 Hours / Week",
+    "Description" : "Interns will be required to gather & analyse data from salaried individuals in India. An aptitude for economics/commerce/accounting/finance is preferred. Analytical skills are a must.",
+    "Form" : "https://docs.google.com/forms/d/e/1FAIpQLSczmCr9rpatj4IgYRWtVpxQ6ej8if7LYYsv6METpQBZ7r0HUw/viewform?c=0&w=1",
+    "Opp_ID" : 28,
+    "Organisation" : "Serengeti Ventures Pvt. Ltd.",
+    "type" : "intern"
+  }, {
+    "Category" : "music , events , outdoors , writing",
+    "City" : "any",
+    "Commitment" : "1 Post/Week",
+    "Description" : "We are looking to offer experience in writing around topics related to travel & outdoors, music, events and all other cool things on the internet. We will help students to research around the given topics and they'll also learn to do content SEO for the blogs. Interested students could also learn how to manage a live blog.",
+    "Form" : "https://docs.google.com/forms/d/e/1FAIpQLSflK8h1m0Exgs7nOx13h3YYEoNn6nWLmdvXez161A2coxp1OQ/viewform?c=0&w=1",
+    "Opp_ID" : 29,
+    "Organisation" : "Urban Rabbit",
+    "type" : "intern"
+  }, {
+    "Category" : "review , movie",
+    "City" : "any",
+    "Commitment" : "1 Review / Week",
+    "Description" : "Task Description - Candidate must watch a movie and file in the review as early as possible. Candidate Description - Must be a movie buff, someone who loves watching movies and analyzing it in detail.",
+    "Form" : "https://docs.google.com/forms/d/e/1FAIpQLSfeckNceEOUhi3VJCx4Yv5hZ80g6h-5Vr8RMXBswt49fxBEZQ/viewform?c=0&w=1",
+    "Opp_ID" : 30,
+    "Organisation" : "Spectral Hues",
+    "type" : "intern"
+  }, {
+    "Category" : "fifa , writing , ipl , sports",
+    "City" : "any",
+    "Commitment" : "4 Posts",
+    "Description" : "Task Description - Will have to cover major tournaments such as IPL, FIFA, Olympics, etc.; filing detailed reports on the events. Candidate Description - Must be interested in sports journalism, must have excellent command over language, must have a flair for writing, must watch and analyze matches, must be ready to meet deadlines, cooperative and honest.",
+    "Form" : "https://docs.google.com/forms/d/e/1FAIpQLSeXiYeDxPk89NpdxaQeyTZBLdFFZbdi-pZhZ4EEmsvezFDPOQ/viewform?c=0&w=1",
+    "Opp_ID" : 31,
+    "Organisation" : "Spectral Hues",
+    "type" : "intern"
+  }, {
+    "Category" : "writing , lifestyle , events , tech , review , interview , lifestyle",
+    "City" : "any",
+    "Commitment" : "3-4 Hours / Week",
+    "Description" : "Task Description - Features Writer (Write up on trending topics, including news, entertainment, interviews, lifestyle posts, features' stories, profile write ups, meeting people for stories) Tech Writer (Articles on launches - cell phones, cameras and other gadgets; gadget review & new scientific discoveries). Candidate Description - Will be ready to meet the deadlines, Creative writing style - must possess flair in writing, must be ready to do interviews (by meeting in person or emails or telephonic), dedicated, confident, honest and trustworthy.",
+    "Form" : "https://docs.google.com/forms/d/e/1FAIpQLScUGp9iAWR0zQbqdFEW_EZx_Mf2E51bQM9F5HsgfNUOVPen9g/viewform?c=0&w=1",
+    "Opp_ID" : 32,
+    "Organisation" : "Spectral Hues",
+    "type" : "intern"
+  }, {
+    "Category" : "design , social media , marketing",
+    "City" : "Mumbai",
+    "Commitment" : "5 Days / Week",
+    "Description" : "Intern with the newly launched fashion label, Hash World as Graphic Designer, Creative Content Developer or Social Media Manager",
+    "Form" : "https://docs.google.com/forms/d/e/1FAIpQLScc2kc9kRmkChcW2OujF2V2VVPSvBvPaCy3yIdzWpOyJduOnQ/viewform?c=0&w=1",
+    "Opp_ID" : 33,
+    "Organisation" : "Hash World",
+    "type" : "intern"
+  }, {
+    "Category" : "social media , marketing",
+    "City" : "any",
+    "Commitment" : "10 Hours / Week",
+    "Description" : "Social Media Evangelist (SME) - Your role is to benchmark Affimity with the existing social networks, to help bring more users who are looking to share their passions on Affimity and to engage with them. The more users you bring after downloading the app yourself, the more is your performance related pay.",
+    "Form" : "https://docs.google.com/forms/d/e/1FAIpQLSdpEWnWFWKpqx0Bgdos2KvnOkMyYBzdLhH927AnIY0xzo2SSA/viewform?c=0&w=1",
+    "Opp_ID" : 34,
+    "Organisation" : "Affimity",
+    "type" : "intern"
+  }, {
+    "Category" : "writing , career",
+    "City" : "any",
+    "Commitment" : "10 Hours / Week",
+    "Description" : "Perfect Career Fit is an online profiling and career guidance platform. We work with students and parents through their Educational Institutions or individually , providing them services like Career guidance, college search and career mapping. Help develop professional online and offline content for Perfect Career Fit. Writers must have impeccable writing skills.",
+    "Form" : "https://docs.google.com/forms/d/e/1FAIpQLSe8SpCsWURlU6uNQmLQTYRu_kW2z-FnMv19XqUEyafcx22vtQ/viewform?c=0&w=1",
+    "Opp_ID" : 35,
+    "Organisation" : "Perfect Career Fit",
+    "type" : "intern"
+  }, {
+    "Category" : "office , social media , music , design",
+    "City" : "Mumbai",
+    "Commitment" : "4 Hours / Week",
+    "Description" : "Intern at the media house behind popular Indian TV shows like Star Voice of India and Sa Re Ga Ma Pa. The interns must know graphic designing, how to use the Microsoft Office Suite, have an interest in marketing and the creative thinking process. A desire to give your best is essential.",
+    "Form" : "https://docs.google.com/forms/d/e/1FAIpQLScQPi_UIEgLoUV8VgUsZh2VNjYZCQDkgge2JO_bw8o_gbnQGQ/viewform?c=0&w=1",
+    "Opp_ID" : 36,
+    "Organisation" : "SaiBaba Telefilms",
+    "type" : "intern"
+  }, {
+    "Category" : "food , distribute , pack , community service",
+    "City" : "any",
+    "Commitment" : "N/A",
+    "Description" : "Volunteers can help with either baking nutritious food items, packaging and distributing or managing social media. Those who would like to bake would be given a home baker's address closest to their area alongside whom the volunteer shall work. More details will be provided on enrollment.",
+    "Form" : "https://docs.google.com/forms/d/e/1FAIpQLSekrbcZrVkpPzgSSD3M6EaOGGRnaAoeAodmqgCDJkr_2kgvXw/viewform?c=0&w=1",
+    "Opp_ID" : 37,
+    "Organisation" : "Ovenderful",
+    "type" : "volunteer"
+  }, {
+    "Category" : "computers , music , education , teach",
+    "City" : "bangalore",
+    "Commitment" : "7 Hours / Week",
+    "Description" : "Help take care of differently abled female children and teach them subjects like computers and music. Volunteers will also be required to help feed the kids, wash and dry clothes and conduct other activities.",
+    "Form" : "https://docs.google.com/forms/d/e/1FAIpQLScH9Jnbd9kF08wR3IRv9a5mjilh8XHOKjkOb9pJEgbC-TCmpQ/viewform",
+    "Opp_ID" : 38,
+    "Organisation" : "Swanthana",
+    "type" : "volunteer"
+  }, {
+    "Category" : "teach , education , computers , help , social media , events",
+    "City" : "bangalore",
+    "Commitment" : "1 Hour / Day",
+    "Description" : "Following are the top choices in area of volunteering at Parikrma: �ۢ Teaching (remedial, subjects, assisting teachers) �ۢ Conducting workshops (i.e. math lab, health and hygiene) �ۢ Sharing hobbies and specialties (i.e. music, dance, computer skills) �ۢ Helping Parikrma department (i.e. making child profiles, IT, fundraising, marketing) Required Candidate Profile (Any specific types of students/volunteers preferred): College going students, any professionals (Indian and International)",
+    "Form" : "https://docs.google.com/forms/d/e/1FAIpQLSfW2iLyZEltCsT1-48Ha-VI7Z4P3ZaT_QFsckkl8oO_lN8mqQ/viewform?c=0&w=1",
+    "Opp_ID" : 39,
+    "Organisation" : "Parikrama Foundation",
+    "type" : "volunteer"
+  }, {
+    "Category" : "story , lifestyle , photography , writing , social media , marketing",
+    "City" : "jaipur",
+    "Commitment" : "6 Stories / Week",
+    "Description" : "Work as a story collector for Humans of Jaipur City! Meet random people on streets, public places or parks, talk to them about their personal or professional lives and extract out an interesting story. Candidate is required to have good photography and writing skills, as well as a sharp memory",
+    "Form" : "https://docs.google.com/forms/d/e/1FAIpQLSd6UrrjHqXviukZde6IdM2qxe9uoCtW_sHRMZ9-AWi1HQXfjg/viewform?c=0&w=1",
+    "Opp_ID" : 40,
+    "Organisation" : "Humans of Jaipur City",
+    "type" : "intern"
+  }, {
+    "Category" : "beta tester , website",
+    "City" : "any",
+    "Commitment" : "1 - 3 Hours / Day",
+    "Description" : "Covetlo is trying to develop a social commerce site, which allows user to \"covet\" a product (think pinterest of shopping) and we build recommendation around that product. The user can share this product and the site also allows the user's followers to comment on that product, helping the user in his purchasing decision. The site also allows the user to upload the pictures of the product or design they want and Covetlo will showcase same or similar product on the user's \"Myfeed\" page. The user can also \"covet\" products from other sites. (any site in the world) Interns will work as testers for Covetlo and will be required to spend 20 minutesin a day to test the site and answers two questions. We will be sending the question at the beginning of the week. Tester will submit the findings (of that week) at the end of the week. (Sunday))",
+    "Form" : "https://docs.google.com/forms/d/e/1FAIpQLSfpVWQkQ9buRg-aihy313lCryrzhjuxG_iLoluThMksD58iyw/viewform?c=0&w=1",
+    "Opp_ID" : 41,
+    "Organisation" : "Covetlo",
+    "type" : "intern"
+  }, {
+    "Category" : "teach , education , children , underprivilaged",
+    "City" : "delhi",
+    "Commitment" : "4 Hours / Week",
+    "Description" : "The volunteers and interns will be expected to teach kids of the underprivileged sections with special emphasis on basic education in Vidya Sagar and Vidya Vikas. There will be extra-curricular activities which we engage our kids in, the information and requirements for which will be conveyed to the volunteers/interns well before the date of such an event/activity.",
+    "Form" : "https://docs.google.com/forms/d/e/1FAIpQLSfG8UerKLh2Xd63-7GASEtd9Ch1-UA0oC-o1IZ9mWqnJpZltA/viewform?c=0&w=1",
+    "Opp_ID" : 42,
+    "Organisation" : "Sarvahitey",
+    "type" : "intern"
+  }, {
+    "Category" : "survey , social media , outreach",
+    "City" : "delhi",
+    "Commitment" : "4 Weeks",
+    "Description" : "Interns will be required to conduct surveys, share information with stakeholders, teach basic English to students and help in reaching out to the media.",
+    "Form" : "https://docs.google.com/forms/d/e/1FAIpQLSdOaqoxup40L63VVSj74FabXDNZplRXnGDBlzZP7QTyrX-M5g/viewform?c=0&w=1",
+    "Opp_ID" : 43,
+    "Organisation" : "Chintan",
+    "type" : "intern"
+  }, {
+    "Category" : "sell , social media , marketing",
+    "City" : "delhi",
+    "Commitment" : "4 Weeks",
+    "Description" : "Interns will be required to sell at least 10 subscriptions of Mint during the internship. Other work like promotion of the daily may be included as per the capabilities of the intern.",
+    "Form" : "https://docs.google.com/forms/d/e/1FAIpQLSd-UBk7azmHi2KSldqeP7hz2_HEuuf0pOUwwe2gW2xXUxk9iQ/viewform?c=0&w=1",
+    "Opp_ID" : 44,
+    "Organisation" : "Mint",
+    "type" : "intern"
+  }, {
+    "Category" : "paid , marketing , social media , technology , computers, skills",
+    "City" : "Mumbai",
+    "Commitment" : "10 Weeks",
+    "Description" : "Marketing and Sales Internship - Assist in acquiring new clients and maintaining existing client relationship for the business. Skills Required - Strong communication skills, fast learner, strong presentation skills, enthusiastic about technology, hardworking.",
+    "Form" : "https://goo.gl/forms/PBmt55Hd5p0L8POr2",
+    "Opp_ID" : 45,
+    "Organisation" : "Knack",
+    "type" : "intern"
+  } ],
+  "featured": [
+    {
+      "Category" : "teach , education , children , underprivilaged",
+      "City" : "delhi",
+      "Commitment" : "4 Hours / Week",
+      "Description" : "The volunteers and interns will be expected to teach kids of the underprivileged sections with special emphasis on basic education in Vidya Sagar and Vidya Vikas. There will be extra-curricular activities which we engage our kids in, the information and requirements for which will be conveyed to the volunteers/interns well before the date of such an event/activity.",
+      "Form" : "https://docs.google.com/forms/d/e/1FAIpQLSfG8UerKLh2Xd63-7GASEtd9Ch1-UA0oC-o1IZ9mWqnJpZltA/viewform?c=0&w=1",
+      "Opp_ID" : 42,
+      "Organisation" : "Sarvahitey",
+      "type" : "intern"
+    }, {
+      "Category" : "survey , social media , outreach",
+      "City" : "delhi",
+      "Commitment" : "4 Weeks",
+      "Description" : "Interns will be required to conduct surveys, share information with stakeholders, teach basic English to students and help in reaching out to the media.",
+      "Form" : "https://docs.google.com/forms/d/e/1FAIpQLSdOaqoxup40L63VVSj74FabXDNZplRXnGDBlzZP7QTyrX-M5g/viewform?c=0&w=1",
+      "Opp_ID" : 43,
+      "Organisation" : "Chintan",
+      "type" : "intern"
+    }, {
+      "Category" : "sell , social media , marketing",
+      "City" : "delhi",
+      "Commitment" : "4 Weeks",
+      "Description" : "Interns will be required to sell at least 10 subscriptions of Mint during the internship. Other work like promotion of the daily may be included as per the capabilities of the intern.",
+      "Form" : "https://docs.google.com/forms/d/e/1FAIpQLSd-UBk7azmHi2KSldqeP7hz2_HEuuf0pOUwwe2gW2xXUxk9iQ/viewform?c=0&w=1",
+      "Opp_ID" : 44,
+      "Organisation" : "Mint",
+      "type" : "intern"
+    }, {
+      "Category" : "paid , marketing , social media , technology , computers, skills",
+      "City" : "Mumbai",
+      "Commitment" : "10 Weeks",
+      "Description" : "Marketing and Sales Internship - Assist in acquiring new clients and maintaining existing client relationship for the business. Skills Required - Strong communication skills, fast learner, strong presentation skills, enthusiastic about technology, hardworking.",
+      "Form" : "https://goo.gl/forms/PBmt55Hd5p0L8POr2",
+      "Opp_ID" : 45,
+      "Organisation" : "Knack",
+      "type" : "intern"
+    }
+  ]
+}

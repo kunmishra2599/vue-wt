@@ -1,24 +1,17 @@
 <template>
-  <nav>
-    <div class="nav-wrapper">
-      <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">menu</i></a>
-      <ul class="left hide-on-med-and-down">
-        <li><router-link to="/">Home</router-link></li>
-      </ul>
-      <ul class="right hide-on-med-and-down">
-        <li  id="adminLink"><router-link to="admin">Admin Login</router-link></li>
-      </ul>
-      <ul class="side-nav" id="mobile-demo">
-        <li><router-link to="admin">Admin</router-link></li>
-      </ul>
-    </div>
-  </nav>
+    <md-toolbar class="md-transparent">
+      <md-button class="md-icon-button">
+        <md-icon>menu</md-icon>
+      </md-button>
+      <!-- <h2 class="md-title" style="flex: 1">Vue Material</h2> -->
+      <md-button class=""><router-link to="/"><p>Home</p></router-link></md-button>
+    </md-toolbar>
 </template>
 
 
 
 
-<style>
+<style scoped>
 
 nav{
   background-color: transparent;
@@ -26,12 +19,18 @@ nav{
   border: 0px solid white;
 
 }
-nav ul a{
+.md-button, p{
   color: white;
   font-size: 1.1em;
 }
 body{
   font-family: 'Lato', Helvetica, Arial, sans-serif;
 }
-
+p:hover{
+  color: white;
+  text-decoration: none;
+}
+a:hover{
+  text-decoration: none;
+}
 </style>

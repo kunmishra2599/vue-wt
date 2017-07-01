@@ -1,13 +1,12 @@
 <template>
   <div class="row">
-  <div class="search-panel">
-      <div class="col s12">
-           <input placeholder="Search for stuff here. Literally anything. We use Elastic now." id="search" type="text" class="validate">
+      <div class="col-md-offset-1 col-md-10 col-xs-10 col-xs-offset-1">
+           <!-- <input placeholder="Search for stuff here. Literally anything. We use Elastic now."  type="text" class="validate"> -->
+           <md-input-container>
+            <md-input id="search" placeholder="Search for stuff here. Literally anything. We use Elastic now."></md-input>
+          </md-input-container>
       </div>
-      <div class="col s12"> <a class="waves-effect waves-light btn search-btn z-depth-1">Search</a></div>
-
-
-    </div>
+      <div class="col-md-12 col-xs-12"><md-button>SEARCH</md-button></div>
 </div>
 
 </template>
@@ -16,48 +15,51 @@
 </script>
 
 <style scoped>
-
+.md-input-focused:active{
+  border-bottom: none;
+}
 #search{
   text-align: center;
   color: black;
   font-size: 20px;
   border: 1px solid white;
   background-color: white;
-  border-radius: 5px;
+  border-radius: 3px;
+  height:50px;
 }
-input{
-  box-shadow: 0px 10px 10px rgba(0,0,0,0.5);
+.col-md-12,.col-xs-12{
+  text-align: center;
 }
-.search-panel{
+.md-button, .md-input{
   text-align: center;
   color: white;
 }
-/* label focus color */
-  .input-field input[type=text]:focus + label {
-    color: white;
-}
-/* label underline focus color */
-  .input-field input[type=text]:focus {
-    border-bottom: 1px solid white;
-    box-shadow: 0 1px 0 0 white;
-  }
-.search-btn{
+.md-button{
   width:30%;
   background-color: transparent;
   border: 1px transparent solid;
   color: white;
+  font-size: 1.2em;
+}
+/* label focus color */
+
+/* label underline focus color */
+.s12{
+  text-align: center;
+}
+.search-btn{
+text-align: center;
 }
 ::-webkit-input-placeholder { /* WebKit browsers */
     color: grey;
     opacity: 1 !important;
+    font-size: 2em;
 }
 .search-btn:hover{
   background-color: rgba(0,0,0,0.2);
   color:white;
 }
 
-#search:active{
-  border-bottom: 1px solid white;
-}
+
 
 </style>
