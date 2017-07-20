@@ -12,7 +12,7 @@
           <h4 class="title-text"> Featured Opportunities </h4>
         </div>
             <div  v-for="pos of positions" class="col-md-offset-2 col-md-8 col-xs-8 col-xs-offset-2">
-              <md-card flex md-with-hover md-elevation="15" style="background-image: url('https://static.pexels.com/photos/29642/pexels-photo-29642.jpg');">
+              <md-card flex md-with-hover md-elevation="15">
                   <md-card-header>
                     <div class="md-title">Work with {{pos.Organisation}}</div>
                     <div class="md-subhead">
@@ -162,7 +162,7 @@ h4{
 }
 
 .md-card{
-  /*background-image: url('https://static.pexels.com/photos/29642/pexels-photo-29642.jpg');*/
+  background-image: url('https://static.pexels.com/photos/497848/pexels-photo-497848.jpeg');
   margin-top:0.5%;
   margin-bottom: 1%;
   background-color: black;
